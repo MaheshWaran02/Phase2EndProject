@@ -1,0 +1,4 @@
+stepdefs\Hooks.class
+stepdefs\RunningClass.class
+stepdefs\AddToCardDefs.class
+stepdefs\LoginTest.class
